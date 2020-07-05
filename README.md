@@ -10,6 +10,7 @@ This code is used to test the system to see if it is a virtual machine
 # Structure and method of work
 This framework is being developed by Amir Hossein Tangsiri Nezhad
 In fact, the code works in such a way that it manages to detect virtual machines by checking drivers and processes related to virtual machines.
+Note: Windows OS Only
 
 # Prerequisite
 
@@ -19,6 +20,3 @@ In fact, the code works in such a way that it manages to detect virtual machines
 ## sys Module
 ## time Module
 
-## Writted With Python3
-
-## Windows Based
