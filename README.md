@@ -3,7 +3,7 @@
 
 # PyAntiVM 
 
-# Work Code:
+# Work Of PyAntiVM:
 This code is used to test the system to see if it is a virtual machine
 
 # Dveloper: AmirHossein Tangsiri Nezhad
